@@ -1,0 +1,27 @@
+{
+  "username": "Rizqy Syandana",
+  "caption": "This is the important links just for you.",
+  "image": "/test.png",
+  "links": [
+    {
+      "name": "Youtube",
+      "link": "https://www.youtube.com/channel/UCLaOO37RenBsDLBRyJjWN3g?"
+    },
+    {
+      "name": "Dribbble",
+      "link": "https://dribbble.com/syandanax"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/rizqysyandana/"
+    },
+    {
+      "name": "Twitter",
+      "link": "https://twitter.com/Rizqy_syandana"
+    },
+    {
+      "name": "Facebook page",
+      "link": "https://www.facebook.com/syandanax/"
+    }
+  ]
+}

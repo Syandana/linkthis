@@ -3,8 +3,7 @@ import Layout from "../../components/layout"
 import React from 'react'
 import matter from 'gray-matter'
 import ReactMarkdown from 'react-markdown'
-
-export default function PostTemplate({ content, data }) {
+export default function PostTemplate({ content, data, x }) {
   // This holds the data between `---` from the .md file
   const user = data
 
