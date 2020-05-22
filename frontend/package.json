@@ -8,8 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "frontmatter-markdown-loader": "^3.4.2",
+    "gray-matter": "^4.0.2",
     "next": "9.4.2",
+    "raw-loader": "^4.0.1",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-markdown": "^4.3.1"
   }
 }
